@@ -84,9 +84,7 @@ android app development.
   
 <p>
   <a href="https://github.com/Akshat-Puri/Akshat-Puri">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akshat-Puri&show_icons=true&theme=dark&repo=Akshat-Puri" />
-    <!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Puri&show_icons=true&theme=dark&repo=Akshat-Puri" /><br> -->
-  </a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akshat-Puri&show_icons=true&theme=dark&repo=Akshat-Puri" /></a>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Puri&layout=compact&show_icons=true&theme=dark)](https://github.com/Akshat-Puri/github-readme-stats)
   
