@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Akshat Puri.png" alt="my banner">
+  <img src="Akshat Puri.png" alt="my banner" width="1000px" height="350px">
 </p>
 
 <h3 align="center">
