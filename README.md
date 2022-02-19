@@ -91,6 +91,6 @@ android app development.
   </p>
 </details>
 
-## ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akshat-Puri.Akshat-Puri)
+## ![Visitors](https://Visitor-badge.glitch.me/badge?page_id=Akshat-Puri.Akshat-Puri)
 
 <img height="50" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
