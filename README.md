@@ -8,7 +8,7 @@ Hi there, I'm Akshat 👋,
 </h3>
 
 Grounded and solution-oriented programming
-enthusiast, adapt at motivating self and others. Passionate about data science, AI, software and
+enthusiast, adept at motivating self and others. Passionate about data science, AI, software and
 android app development.
 
 ### 🤝 Connect with me:
